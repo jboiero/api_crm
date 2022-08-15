@@ -1,0 +1,28 @@
+{
+  "clientes": [
+    {
+      "nombre": "Jorge Sebastian",
+      "empresa": "Jorgela",
+      "email": "jboiero@gmail.com",
+      "telefono": "345894312",
+      "notas": "Cliente preferencial",
+      "id": 1
+    },
+    {
+      "nombre": "Karen",
+      "empresa": "Karen la grosa",
+      "email": "karen@karen.com",
+      "telefono": "327800320",
+      "notas": "Esta consultando por el abono mensual",
+      "id": 2
+    },
+    {
+      "nombre": "Juana ",
+      "empresa": "Azurduy",
+      "email": "juanazurduy@gmail.com",
+      "telefono": "890988777",
+      "notas": "",
+      "id": 3
+    }
+  ]
+}
